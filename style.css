@@ -346,6 +346,19 @@ tspan {
   svg {
     max-height: 80vh;
   }
+  .footer {
+      text-align: center;
+      font-size: 32px;
+      color: rgba(255, 255, 255, 0.7);
+      padding: 12px;
+      background: linear-gradient(90deg, #fe9696, #00bcd4);
+      color: #04122a;
+      border-radius: 6px;
+      margin-top: 20px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+      font-weight: 500;
+
+    }
 }
 
 /* ===============================
@@ -417,5 +430,10 @@ image {
       margin-top: 20px;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
       font-weight: 500;
+
+    }
+
+    .footer {
+     display: none;
 
     }
