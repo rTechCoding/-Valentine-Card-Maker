@@ -165,6 +165,7 @@ input[type="text"]:focus {
 }
 
 /* --- AREA DE PREVISUALIZACIÓN (DERECHA) --- */
+
 .preview-area {
   flex: 1;
   background-color: var(--bg-app);
