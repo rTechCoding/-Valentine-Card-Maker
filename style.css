@@ -16,7 +16,8 @@ body {
   height: 100vh;
   display: flex;
   color: var(--text);
-  overflow: hidden; /* Evita scroll en el body, solo en paneles */
+  overflow: hidden; 
+/* Evita scroll en el body, solo en paneles */
 }
 
 /* --- LAYOUT PRINCIPAL --- */
